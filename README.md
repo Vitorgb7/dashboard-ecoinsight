@@ -6,7 +6,7 @@ O **EcoInsight** é um painel de controle intuitivo para monitoramento ambiental
 ---
 
 ## 🔗 Link para o Protótipo no Figma  
-Acesse o protótipo completo do projeto no Figma clicando [aqui](https://www.figma.com/proto/ejtQsTTGmA40AhDRGnfViH/Dashboard-Meio-ambiente---(EcoInsight))?node-id=1603-397&node-type=canvas&t=4VAbIOSKD2npK1CM-0&scaling=contain&content-scaling=fixed&page-id=0%3A1).
+Acesse o protótipo completo do projeto no Figma clicando [aqui](https://www.figma.com/proto/ejtQsTTGmA40AhDRGnfViH/Dashboard-Meio-ambiente---(EcoInsight)?node-id=1603-397&node-type=canvas&t=4VAbIOSKD2npK1CM-0&scaling=contain&content-scaling=fixed&page-id=0%3A1).
 
 ---
 
