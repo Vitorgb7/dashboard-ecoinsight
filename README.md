@@ -69,4 +69,7 @@ Abaixo está uma prévia do design do dashboard:
 6. Wellington Kaio Nilo da Silva - 13524116510
 7. Vitor Gabriel Silva de Lima - 1352414690
 
+---
+
+
 > Desenvolvido alinhado com o objetivo 11 das ODS (cidades e comunidades sustentáveis).
