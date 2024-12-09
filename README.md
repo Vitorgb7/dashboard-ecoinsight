@@ -60,4 +60,13 @@ Abaixo está uma prévia do design do dashboard:
 
 ---
 
+## Equipe
+1. Julikéssia Silva da Cunha Rosa - 1352413138
+2. Luiz Gustavo Guedes - 1352424650
+3. Avillis Thiago Nery da Silva - 13524116743
+4. Matheus Nascimento de Souza Leão Silva - 1352414099
+5. Nikolas teodosio de Melo - 13524113250
+6. Wellington Kaio Nilo da Silva - 13524116510
+7. Vitor Gabriel Silva de Lima - 1352414690
+
 > Desenvolvido alinhado com o objetivo 11 das ODS (cidades e comunidades sustentáveis).
